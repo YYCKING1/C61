@@ -1,0 +1,39 @@
+.line {
+    height: 10px;
+    background-color: #000;
+    width: 70px;
+    margin: 7px auto;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    z-index: 10px;
+    cursor: pointer;
+}
+
+#APPS/GAMES {
+    background-color: crimson;
+    width: 100%;
+    height: 850px
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+#MAP iframe {
+    width: 100%;
+}
